@@ -2,7 +2,7 @@
 <b>slideMaster</b> is a jQuery based API can be used to make <b>touch supported slidable</b> element. 
 <h5> Key functionality </h5>
 <ul>
- <li> Trigger functions in left or right slide.
+ <li> Trigger functions with left or right slide.
  <li> Dynamically change background color opacity with slide distance. </li>
  <li> Accept minimum range of slide to trigger function execution </li>
 </ul>
