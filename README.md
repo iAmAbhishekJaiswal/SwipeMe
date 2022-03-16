@@ -6,6 +6,7 @@
  <li> Dynamically change background color opacity with slide distance. </li>
  <li> Accept minimum range of slide to trigger function execution </li>
 </ul>
+<a href="https://iamabhishekjaiswal.github.io/demo-for-slideMaster/"> Simple Demo </a>
 <img src="https://user-images.githubusercontent.com/67130803/158685777-2fcb1659-96e8-45ae-9648-731fea41a01b.jpg"/>
 <img src="https://user-images.githubusercontent.com/67130803/158684805-a531aceb-7fad-4662-a969-e6fc11d2e475.jpg"/>
 <img src="https://user-images.githubusercontent.com/67130803/158684841-78397b19-33de-4f14-ae90-55011bc25ecb.jpg"/>
