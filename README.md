@@ -25,7 +25,7 @@
 
 ```javascript
 
- var slideData={
+var slideData={
            rightSlideFunction : function1,
            leftSlideFunction : function2,
            rightSlideColor :"#5cb85c",
@@ -47,7 +47,7 @@ Here, <b> rightSlideFunction </b> and <b>leftSlidefunction</b> define function t
  
  ```javascript
 
-      $('.className').slideMaster(slideData);
+$('.className').slideMaster(slideData);
     
 ```
 Here replace <b>className</b> with element's className which you want to make slidable.
