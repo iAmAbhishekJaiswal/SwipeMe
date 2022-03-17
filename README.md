@@ -1,5 +1,5 @@
 # slideMaster
-<b>slideMaster</b> is a jQuery based API can be used to make <b>touch supported slidable</b> element. 
+<b>slideMaster</b> is a jQuery based library can be used to make <b>touch supported slidable</b> element. 
 <h5> Key functionality </h5>
 <ul>
  <li> Trigger functions with left or right slide.
